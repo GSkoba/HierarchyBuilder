@@ -1,0 +1,13 @@
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\bin\Debug\HierarchyBuilder.exe.config
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\bin\Debug\HierarchyBuilder.exe
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\bin\Debug\HierarchyBuilder.pdb
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.csprojResolveAssemblyReference.cache
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.ItemPrice.resources
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.MainForm.resources
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.Properties.Resources.resources
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.csproj.GenerateResource.Cache
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.exe
+C:\Usesr Files\Politeh2\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.pdb
+C:\Usesr Files\Politeh\Третий семестр\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\bin\Debug\HierarchyBuilder.exe.config
+C:\Usesr Files\Politeh\Третий семестр\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.exe
+C:\Usesr Files\Politeh\Третий семестр\TestForTC\HierarchyBuilder\HierarchyBuilder\HierarchyBuilder\obj\Debug\HierarchyBuilder.pdb
